@@ -25,3 +25,8 @@
   background-color: #AD2B70;
   color: white;
 }
+
+/* Make buttons round */
+.topnav ul {
+  border-radius: 1em;
+}
