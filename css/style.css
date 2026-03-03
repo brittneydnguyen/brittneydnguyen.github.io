@@ -17,7 +17,7 @@
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: pink;
-  color: black;
+  color: #AD2B70;
 }
 
 /* Add a color to the active/current link */
@@ -27,6 +27,6 @@
 }
 
 /* Make buttons round */
-.topnav ul {
+.topnav {
   border-radius: 1em;
 }
