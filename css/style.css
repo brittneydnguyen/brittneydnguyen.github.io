@@ -17,7 +17,7 @@
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: pink;
-  color: #B21066;
+  color: #8C0B52;
 }
 
 /* Add a color to the active/current link */
@@ -46,7 +46,7 @@ div {
 /* Center headers */
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
-  color: #B21066;
+  color: #8C0B52;
 }
 
 /* Two column text & photos */
