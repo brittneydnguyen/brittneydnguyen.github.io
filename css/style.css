@@ -61,4 +61,5 @@ h1, h2, h3, h4, h5, h6 {
   content: "→"; /* Unicode right arrow character */
   color: #000000; /* Optional: Change the arrow color */
   font-size: 1.2em; /* Optional: Adjust the arrow size */
+  margin-left: 225px;
 }
