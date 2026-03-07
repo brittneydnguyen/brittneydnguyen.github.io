@@ -26,33 +26,9 @@
   color: white;
 }
 
-/* Make buttons hearts */
+/* Make buttons rounded */
 .topnav {
-    height: 100px;
-    width: 100px;
-    background-color: pink;
-    transform: rotate(-45deg);
-    position: relative;
-}
-
-.topnav::before, 
-.topnav::after {
-    content: "";
-    height: 100px;
-    width: 100px;
-    background-color: pink;
-    border-radius: 50%;
-    position: absolute;
-}
-
-.topnav::before {
-    top: -50px;
-    left: 0px;
-}
-
-.topnav::after {
-    left: 50px;
-    top: 0px;
+  border-radius: 1em;
 }
 
 /* Set margins */
