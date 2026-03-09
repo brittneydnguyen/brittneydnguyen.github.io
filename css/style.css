@@ -29,6 +29,7 @@
 /* Make buttons rounded */
 .topnav {
   border-radius: 1em;
+  display: block;
 }
 
 /* Set margins */
