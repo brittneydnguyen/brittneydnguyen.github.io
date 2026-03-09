@@ -28,7 +28,7 @@
 
 /* Make buttons rounded */
 .topnav {
-  border-radius: 75%;
+  border-radius: 1em;
 }
 
 /* Set margins */
