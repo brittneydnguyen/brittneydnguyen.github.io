@@ -64,3 +64,23 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.2em; /* Optional: Adjust the arrow size */
   margin-left: 225px;
 }
+
+/* unvisited link */
+a:link {
+  color: #8C0B52;
+}
+
+/* visited link */
+a:visited {
+  color: #FCD4E3;
+}
+
+/* mouse over link */
+a:hover {
+  color: #8C0B52;
+}
+
+/* selected link */
+a:active {
+  color: #8C0B52;
+}
