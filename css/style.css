@@ -84,3 +84,10 @@ a:hover {
 a:active {
   color: #8C0B52;
 }
+
+/* reset list margins */
+ul, ol {
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
