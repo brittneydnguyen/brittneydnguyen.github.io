@@ -86,7 +86,7 @@ a:active {
 }
 
 /* reset list margins */
-ul, ol {
+.menu ul, .menu ol {
     list-style-type:none;
     padding: 0;
     margin: 0;
