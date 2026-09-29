@@ -13,6 +13,7 @@
   text-decoration: none;
   font-size: 17px;
   border-radius: 1em;
+  font-family: "Quattrocento Sans";
 }
 
 /* Change the color of links on hover */
@@ -93,6 +94,6 @@ a:active {
 }
 
 /* change fonts */
-h1, h2, h3, h4, h5, h6, p , ul, ol, topnav {
+h1, h2, h3, h4, h5, h6, p , ul, ol {
   font-family: "Quattrocento Sans"
 }
