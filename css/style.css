@@ -90,7 +90,7 @@ a:active {
 .menu ul, .menu ol {
     list-style-type:none;
     padding: 0;
-    margin: 0;
+    margin: 175px;
 }
 
 /* change fonts */
